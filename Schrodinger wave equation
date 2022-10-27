@@ -1,33 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T07:26:33.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="xUH6INNkxXx2YhlXROdf" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T07:33:49.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="ucYnglck6JrSQMXtKCT0" version="20.5.1" type="github">
   <diagram id="KrnOK099meaolzrr7ZbY" name="Page-1">
-    <mxGraphModel dx="201" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-3" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fontSize=12;rounded=1;curved=1;sketch=1;" parent="1" source="kOKpB70huUkuu-p_Wfbj-1" target="kOKpB70huUkuu-p_Wfbj-2" edge="1">
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curved=1;" edge="1" parent="1" source="8qJrIQD7Tgg0Pg3JxXLt-14" target="8qJrIQD7Tgg0Pg3JxXLt-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-1" value="Chemistry&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="whiteSpace=wrap;html=1;fontSize=12;strokeWidth=3;sketch=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-14" value="Schrodinger wave equation" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-2" value="Inorganic Chemistry" style="whiteSpace=wrap;html=1;fontSize=12;strokeWidth=3;sketch=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-15" value="Timeline" style="swimlane;horizontal=0;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="230" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-7" value="" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;rounded=1;curved=1;sketch=1;" parent="1" source="kOKpB70huUkuu-p_Wfbj-2" target="kOKpB70huUkuu-p_Wfbj-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-4" value="Schrodinger wave equation" style="whiteSpace=wrap;html=1;fontSize=12;strokeWidth=3;sketch=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-11" value="Timeline" style="swimlane;horizontal=0;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="480" y="130" width="300" height="250" as="geometry">
-            <mxRectangle x="420" y="170" width="50" height="100" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-12" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-11">
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-16" value="Thomson Atomic Model" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-15">
           <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-17" value="Bohr Atomic Model" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-15">
+          <mxGeometry x="30" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-18" value="Heisenberg Uncertainty Principle" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-15">
+          <mxGeometry x="30" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-19" value="De-Broglie Dual Character" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-15">
+          <mxGeometry x="30" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8qJrIQD7Tgg0Pg3JxXLt-20" value="Schrodinger" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;" vertex="1" parent="8qJrIQD7Tgg0Pg3JxXLt-15">
+          <mxGeometry x="30" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
