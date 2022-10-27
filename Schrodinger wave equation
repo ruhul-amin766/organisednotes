@@ -1,27 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T06:21:08.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="xQ0qvtPfWJ4FIhMgQeu6" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T06:23:10.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="CpgqDtMylY9U-EXPPmmS" version="20.5.1" type="github">
   <diagram id="KrnOK099meaolzrr7ZbY" name="Page-1">
     <mxGraphModel dx="1374" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;" edge="1" parent="1" source="kOKpB70huUkuu-p_Wfbj-1" target="kOKpB70huUkuu-p_Wfbj-2">
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;sketch=1;strokeWidth=4;strokeColor=#FF6392;fontColor=#5AA9E6;" edge="1" parent="1" source="kOKpB70huUkuu-p_Wfbj-1" target="kOKpB70huUkuu-p_Wfbj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-1" value="Chemistry&lt;br&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-1" value="Chemistry&lt;br&gt;" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-2" value="Inorganic Chemistry" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-2" value="Inorganic Chemistry" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="240" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-7" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="kOKpB70huUkuu-p_Wfbj-6" target="kOKpB70huUkuu-p_Wfbj-4">
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-7" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;endArrow=classic;endFill=1;strokeWidth=4;strokeColor=#FF6392;fontColor=#5AA9E6;" edge="1" parent="1" source="kOKpB70huUkuu-p_Wfbj-6" target="kOKpB70huUkuu-p_Wfbj-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-4" value="Schrodinger wave equation" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-4" value="Schrodinger wave equation" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kOKpB70huUkuu-p_Wfbj-6" value="" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kOKpB70huUkuu-p_Wfbj-6" value="" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
